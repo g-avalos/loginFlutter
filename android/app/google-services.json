@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "605190090354",
+    "firebase_url": "https://ifts11notas.firebaseio.com",
+    "project_id": "ifts11notas",
+    "storage_bucket": "ifts11notas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605190090354:android:d9ecd1ffb9c57b06f1dceb",
+        "android_client_info": {
+          "package_name": "com.example.notas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605190090354-bhc217l85bhpbso3tnb3f1hiv6l4buml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notas",
+            "certificate_hash": "9b8c35379722405bd4f17e66132b6cc270160ff7"
+          }
+        },
+        {
+          "client_id": "605190090354-l16bh5md43jn9jco9ftpeght8rfrq28a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notas",
+            "certificate_hash": "7f5cfca9f977426722224a3ea3c07047011a00f1"
+          }
+        },
+        {
+          "client_id": "605190090354-spapg8er0135ma2d5utjtq191b9jgqtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUwU5-J_uQrtCWScnTC70qeGvqs3ADWJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605190090354-spapg8er0135ma2d5utjtq191b9jgqtn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605190090354-k9mnc8g1lko0bovmtu42vp4bqhrr93is.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
